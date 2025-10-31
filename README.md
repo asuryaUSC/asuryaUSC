@@ -1,22 +1,23 @@
-# 💥 Aaditya Surya
-> Tech Builder | Global Nomad | Code with Purpose  
+# Aaditya Surya  
+**Tech Builder | Global Perspective | Creating with Purpose**  
 
-🎯 Senior @ USC — CS & Business  
-🌍 Raised in 6 countries  
-⚡ Focused on building clean, impactful tech  
+**Senior at USC | Computer Science and Business Administration**  
+**Raised across six countries | Focused on building technology that drives impact**  
 
 ---
 
-## 🚀 About Me:
-Hi, I’m **Aaditya Surya** — born in India, shaped by Malawi, Lesotho, Mozambique, Nepal, and now LA.  
-Tech is my tool to solve real-world problems. From simple Python games to ML models, from global healthcare to education, I'm always chasing the next challenge.  
+## About Me  
+I’m **Aaditya Surya**, a computer science and business student at USC with roots that span India, Mozambique, Lesotho, Malawi, Nepal, and now Los Angeles. Growing up across these places shaped how I see the world; it taught me that technology isn’t just about innovation, but access.  
 
-💡 I’m currently focused on:
-- Fullstack apps & open source hacks  
-- AI & NLP for real-world impact  
-- Making an impact through code, data & design  
+I’m driven by the idea of building tools that matter — products that solve real problems, tell meaningful stories, and make life better for people across different contexts. From fullstack apps to AI research, I’m drawn to projects that blend technical depth with purpose.  
 
-📬 Hit me up to chat tech, travel, or chess.
+**Currently exploring:**  
+- Fullstack development and open source projects  
+- AI and NLP applications in healthcare and biology  
+- Product design that merges empathy with engineering  
+
+**Always up to talk about** tech, startups, or travel. Feel free to connect or reach out; I love meeting people who build with intention.
+
 
 ---
 
